@@ -1,0 +1,4 @@
+Contact: security@thesynapsys.io
+Expires: 2026-12-27T10:39:00.000Z
+Preferred-Languages: en, es, fr, de, pt
+Canonical: https://thesynapsys.io/.well-known/security.txt

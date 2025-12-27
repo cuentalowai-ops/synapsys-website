@@ -1,0 +1,38 @@
+{
+  "defaultLocale": "es",
+  "locales": ["en", "es", "fr", "de", "pt"],
+  "siteName": "SYNAPSYS",
+  "baseUrl": "https://thesynapsys.io",
+  "pages": {
+    "home": {
+      "path": "/",
+      "title": "SYNAPSYS – Infraestructura de identidad soberana para la Twin Transition europea",
+      "description": "Plataforma de verificación de identidad alineada con SDG 9, 10 y 16, eIDAS 2.0, NIS2 e ISO 27001 para la Twin Transition verde y digital en la UE.",
+      "keywords": ["identidad digital soberana", "eIDAS 2.0", "EUDI Wallet", "twin transition", "SDG 9", "SDG 10", "SDG 16", "NIS2", "ISO 27001"]
+    },
+    "clusters": {
+      "path": "/clusters-aei-espana",
+      "title": "SYNAPSYS para Clústeres y Agrupaciones Empresariales Innovadoras (AEI) en España",
+      "description": "Infraestructura de identidad certificada para AEIs y clústeres españoles.",
+      "keywords": ["AEI España", "clústeres industriales", "ECCP", "resiliencia pymes"]
+    },
+    "arquitectura": {
+      "path": "/arquitectura",
+      "title": "Arquitectura SYNAPSYS – Integridad tipo Galileo HAS para verificación de identidad",
+      "description": "Pipeline de validación inspirado en Galileo HAS: outlier detection, mínimos niveles de rendimiento, OpenID4VP, W3C VC, MDOC.",
+      "keywords": ["Galileo HAS", "Extended Kalman Filter", "outlier detection", "minimum performance levels"]
+    },
+    "eidas": {
+      "path": "/eidas-eudi",
+      "title": "Cumplimiento eIDAS 2.0, EUDI Wallet y Confianza Digital",
+      "description": "SYNAPSYS como pieza de infraestructura crítica: verificación de PID/EAA, OpenID4VP, W3C VC, MDOC, trusted lists EU.",
+      "keywords": ["eIDAS 2.0", "EUDI Wallet", "OpenID4VP", "W3C Verifiable Credentials", "MDOC"]
+    },
+    "nis2iso": {
+      "path": "/nis2-iso27001",
+      "title": "NIS2 + ISO 27001: Seguridad e ISMS Documentado",
+      "description": "Cumplimiento con NIS2 Directive y ISO 27001 ISMS: MFA, AES-256, TLS 1.3, incident response 24h, SAST/DAST.",
+      "keywords": ["NIS2", "ISO 27001", "ISMS", "MFA", "AES-256", "TLS 1.3", "incident response"]
+    }
+  }
+}
